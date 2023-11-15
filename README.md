@@ -1,16 +1,10 @@
 # Resume_Gurmeet_Bedi_MFE
-MFE Quant Resume
+MFE Quant Resume for Gurmeet Bedi
 
 This is a quick resume management repository which syncs code from my Overleaf project, while ensuring I can manage and track past changes
 
-Credits for the original latex doc go to the following people, from the preamble.
-It was originally a one-file resume doc, which I have extended to have multiple versions targeting different roles, and switchable quickly by commenting/uncommenting lines in the main.tex file.
+Credits for the original latex doc go to the following people (Jake and Sourabh), from the preamble.
 
-Hopefully this gets scanned by ATS allowing me more incoming communication about suitable roles. Please feel free to conact at phone/email mentioned in the docs.
+It was originally a one-file resume doc, which I have extended to have multiple files containing versions targeting different roles, and switchable quickly by commenting/uncommenting lines in the main.tex file.
 
-%-------------------------
-% Resume in Latex
-% Author : Jake Gutierrez
-% Based off of: https://github.com/sb2nov/resume
-% License : MIT
-%------------------------
+Hopefully this repo gets scanned by ATS allowing me more incoming communication about suitable roles. Please feel free to conact at phone/email mentioned in the docs.
