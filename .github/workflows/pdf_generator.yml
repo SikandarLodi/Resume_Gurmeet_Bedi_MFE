@@ -49,7 +49,7 @@ jobs:
 
     - name: Check pdf file
       run: |
-        file report.pdf | grep -q ' PDF '
+        file report.pdf | grep -q ' Gurmeet '
 
     - name: Upload file to repository
       run: |
