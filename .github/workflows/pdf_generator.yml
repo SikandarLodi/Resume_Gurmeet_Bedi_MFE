@@ -1,5 +1,7 @@
 name: Github Actions CI to build pdf from tex source.
 on: push
+permissions:
+  contents: write
 jobs:
   build:
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
